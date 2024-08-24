@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <Navbar/>
       <div className={styles.home}>
-        Medicine Website
+        เว็บไซต์ของเมดิซึน
       </div>
     </main>
   );
