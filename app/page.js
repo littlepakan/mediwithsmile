@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar/page";
+import Navbar from "./components/Navbar";
 import styles from "./styles/Home.module.css"
 import "@/app/styles/global.css"
 export default function Home() {
@@ -6,8 +6,7 @@ export default function Home() {
     <main>
       <Navbar/>
       <div className={styles.home}>
-        Medicine-'s Website<br/>
-        ที่นี้คือเว็บไซต์ทดลองยังไงล่ะ~
+        Medicine Website
       </div>
     </main>
   );
