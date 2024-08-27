@@ -1,0 +1,5 @@
+.medicine {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid rgb(200, 90, 90);
+}

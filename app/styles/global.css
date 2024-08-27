@@ -1,0 +1,26 @@
+/* Universal */
+body {
+  color: rgb(255, 255, 255);
+  background-color: rgb(10, 6, 6);
+  margin: 0;
+}
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+nav a{
+  font-size: 16px;
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  background-color: white;
+  max-height: 300px;
+}
+
+footer {
+  margin-top: auto;
+}
